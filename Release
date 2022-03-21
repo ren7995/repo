@@ -1,0 +1,12 @@
+Origin: ren7995 Repo
+Label: ren7995 Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Public repo for assorted packages
+
+SHA256:
+ 2d2b1e45195450a6b4765ed714a12f712ef795485b738e54544e074158ac5c45 3768 Packages.bz2
+ 851b3bd0c1d2f20ba65b9024a97fe52c80e3f0e8566d961c5f98e67202ef0bb4 3660 Packages.xz
